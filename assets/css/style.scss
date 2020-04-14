@@ -41,7 +41,7 @@ a {
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+  //font-weight: bold;
 }
 
 a small {
@@ -56,7 +56,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width: 1000px; //860px;
   margin:0 auto;
 }
 
@@ -104,6 +104,7 @@ img {
   max-width:100%;
 }
 
+/*
 header {
   width:270px;
   float:left;
@@ -154,12 +155,14 @@ ul.downloads {
 .downloads ul a:active {
   background-color:#f0f0f0;
 }
+*/
 
 strong {
   color:#222;
   font-weight:700;
 }
 
+/*
 .downloads li + li + li {
   border-right:none;
   width:89px;
@@ -170,10 +173,11 @@ strong {
   display:block;
   color:#222;
 }
+*/
 
 section {
-  width:500px;
-  float:right;
+  //width:500px;
+  //float:right;
   padding-bottom:50px;
 }
 
@@ -188,6 +192,7 @@ hr {
   margin:0 0 20px;
 }
 
+/*
 footer {
   width:270px;
   float:left;
@@ -195,6 +200,7 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+*/
 
 @media print, screen and (max-width: 960px) {
 
@@ -208,18 +214,18 @@ footer {
     position:static;
     width:auto;
   }
-
+/*
   header {
     padding-right:320px;
   }
-
+*/
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
   }
-
+/*
   header a small {
     display:inline;
   }
@@ -230,12 +236,14 @@ footer {
     top:52px;
   }
 }
-
+*/
+  
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
   }
 
+  /*
   header {
     padding:0;
   }
@@ -243,7 +251,8 @@ footer {
   header ul, header p.view {
     position:static;
   }
-
+*/
+  
   pre, code {
     word-wrap:normal;
   }
@@ -254,6 +263,7 @@ footer {
     padding:15px;
   }
 
+  /*
   .downloads {
     width:99%;
   }
@@ -261,6 +271,7 @@ footer {
   .downloads li, .downloads li + li + li {
     width:33%;
   }
+  */
 }
 
 @media print {
