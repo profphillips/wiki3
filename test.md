@@ -164,6 +164,8 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 
+[MathJax Cheatsheet](https://jojozhuang.github.io/blog/2018/09/11/mathjax-cheat-sheet-for-mathematical-notation/)
+
 <p>The Lorenz Equations</p>
 <p class="math">\[\begin{aligned} \dot{x} &amp; = \sigma(y-x) \\ \dot{y} &amp; = \rho x - y - xz \\ \dot{z} &amp; = -\beta z + xy \end{aligned} \]</p>
 
