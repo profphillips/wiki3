@@ -149,7 +149,7 @@ Here's a "line block" (note how whitespace is honored):
 
 and images can be specified like so:
 
-![puppy](/images/doggy1.jpg "An exemplary image")
+![puppy](/wiki3/images/doggy1.jpg "An exemplary image")
 
 Inline math equation: $\omega = d\phi / dt$. Display
 math should get its own line like so:
