@@ -1,11 +1,15 @@
-# My Favorite Books
+# My Book List
 
-  1. Books by C.S. Lewis  
-  2. Brandon Sanderson  
-    a. Mistborn  
-    b. Way of Kings  
-    c. Starlight  
-  3. Jim Butcher  
+Here are some books I have read:
+
+| Image | Author | Title | Comments |
+--- --- --- ---
+| pict | Lewis, C.S. | The Lion, the witch, and the wardrobe | A classic book |
+| pict2 | Butcher, Jim | Harry Dresden | About a Chicago wizard |
+
+
+
+
   
   And so on...
   
