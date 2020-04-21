@@ -2,7 +2,7 @@
 
 grocery list inventory app
 
-pantry items | minimum count to reorder | actual count
+pantry items | reorder count | actual count
 --- | ---: | ---:
 bread | 2 | 4
 cereal | 1 | 0
